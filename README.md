@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou José Lucas Lopes Sabino
 
-<!--
-**lucas-programador-lang/lucas-programador-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação  
+📍 Porto Velho - RO - Brasil  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+- Linux
+
+## 📂 Projetos
+
+🔹 Nexus Browser  
+Projeto de navegador web.
+
+🔹 Portal Escola  
+Sistema web escolar.
+
+🔹 Benis Frontend  
+Interface web desenvolvida com tecnologias frontend.
+
+🔹 Portal Escola Backend  
+Backend para sistema web.
+
+🔹 LiberFly Indicação  
+Projeto web experimental.
+
+## 📫 Contato
+
+📧 joselucaslopesabino@hotmail.com  
+🌐 https://github.com/lucas-programador-lang
